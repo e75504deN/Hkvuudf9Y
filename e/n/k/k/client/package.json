@@ -60,7 +60,6 @@
     "yarn": "^1.22.10",
     "yup": "^0.32.9"
   },
-  "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
