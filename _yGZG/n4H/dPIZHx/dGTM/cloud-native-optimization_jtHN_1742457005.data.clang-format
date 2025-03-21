@@ -5,7 +5,6 @@ AlignAfterOpenBracket: DontAlign
 AlignConsecutiveAssignments: true
 AlignEscapedNewlines: DontAlign
 AlwaysBreakBeforeMultilineStrings: true
-AlwaysBreakTemplateDeclarations: false
 AllowAllParametersOfDeclarationOnNextLine: false
 AllowShortFunctionsOnASingleLine: false
 BreakBeforeBraces: Attach
