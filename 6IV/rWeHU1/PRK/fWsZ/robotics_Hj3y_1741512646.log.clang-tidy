@@ -3,7 +3,6 @@ Checks: '
 bugprone-*,
 -bugprone-integer-division,
 -bugprone-narrowing-conversions,
-performance-*,
 clang-analyzer-*,
 misc-*,
 -misc-unused-parameters,
