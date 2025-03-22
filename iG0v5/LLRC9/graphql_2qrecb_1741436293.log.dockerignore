@@ -13,7 +13,6 @@ devenv.nix
 .prettierignore
 .editorconfig
 .npmrc
-.firebaserc
 
 node_modules
 **/node_modules
