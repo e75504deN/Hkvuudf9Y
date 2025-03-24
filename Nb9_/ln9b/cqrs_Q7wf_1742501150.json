@@ -18,7 +18,6 @@
   ],
   "reportOutput": [
     [
-      "github",
       {
         "checkRun": false,
         "commitStatus": true,
