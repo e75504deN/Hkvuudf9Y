@@ -1,2 +1,1 @@
-ENV=development
 CACHE_KEY=dev_2023_12
