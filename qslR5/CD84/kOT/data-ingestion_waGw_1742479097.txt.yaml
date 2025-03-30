@@ -30,7 +30,6 @@ github:
     - apache
     - elt
   enabled_merge_buttons:
-    squash: true
     merge: false
     rebase: false
   collaborators:
