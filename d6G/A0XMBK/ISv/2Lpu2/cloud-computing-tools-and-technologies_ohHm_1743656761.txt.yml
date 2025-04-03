@@ -26,7 +26,6 @@ services:
     networks:
       - frontend
  
-  compiler-backend:
     image: compiler-backend
     restart: on-failure
       #network_mode: "host"
