@@ -171,7 +171,6 @@ class ImageDataset_Inf(Dataset):
         Returns:
             samples: a Tensor that represents a video segment.
         """
-        image_name = os.path.join(self.img_dir, self.data.iloc[index, 0])
         I = self.loader(image_name)
         I = self.preprocess(I)
         I = I.unsqueeze(0)
