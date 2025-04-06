@@ -84,7 +84,6 @@ Z.) [Milestone Semiconductor MST9U23T1](assets/MST9U23T1.jpeg). Unable to find a
     7.) Goes to U4404 (Level Shifter) then to B6 on the SoC - I2C_PM_DAT
   
     8.) Goes to U4404 (Level Shifter) then to A6 on the SoC - I2C_PM_CLK
-  
 ### F.) Connected to Rear IO Module
 
     1.) Digital Audio from HDMI Input - Parallel to Port 5 on Header E
