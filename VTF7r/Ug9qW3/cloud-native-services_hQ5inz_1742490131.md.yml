@@ -41,6 +41,5 @@ script:
   - mvn clean -Premove-test-data
   - mvn clean package -Pnit-test
   - mvn clean -Premove-test-data
-after_success:
   - mvn clean package -Pit-test
   - mvn sonar:sonar -Psonar-apache
