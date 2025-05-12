@@ -9,7 +9,6 @@
 
 ### 底层篇
 ![](mind-map/Java工程师成神之路（微信公众号：Hollis）——底层篇.png)
-
 ### 进阶篇
 ![](mind-map/Java工程师成神之路（微信公众号：Hollis）——进阶篇.png)
 
